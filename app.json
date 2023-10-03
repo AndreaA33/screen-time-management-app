@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bbb0c737-6c8e-4259-8809-50958494e89e"
+      }
+    },
+    "owner": "andrea276"
   }
 }
