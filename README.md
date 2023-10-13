@@ -1,6 +1,6 @@
 # ScreenTime Manager App **(STILL IN DEVELOPMENT)**
 An iOS app designed to help you manage and take control of your family's screen time, by allowing them to make more mindful and productive use of your devices. This README will guide you through the features and functionalities of the app, helping you get started and make the most out of it.
-![ScreenTime management app images](./assets/images/Screentime_app_images.png)
+![ScreenTime management app images](./src/assets/images/Screentime_app_images.png)
 ## Table of Contents
 - Features
 - Getting Started
